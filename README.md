@@ -1,10 +1,11 @@
 # StonkBase Smart Contracts
 
 <p align="center">
-  <img alt="StonkBase Logo" src="./documentation/stonkbase-logo-200px.png">
+  <img alt="StonkBase Logo" src="./documentation/stonkbase-logo-200px.png"><br>
+  <img alt="StonkBase Logo" src="./documentation/stonkbase-type-logo-black.png" height="20px">
 </p>
 
-[![GitHub](https://img.shields.io/github/license/stonkbase/stonkbase-contracts)](https://github.com/stonkbase/stonkbase-contracts/blob/master/LICENSE)
+[![GitHub](https://img.shields.io/github/license/stonkbase/stonkbase-contracts)](https://github.com/stonkbase/stonkbase-contracts/blob/main/LICENSE)
 [![Generic badge](https://img.shields.io/badge/homepage-view-red.svg)](https://stonkbase.org/)
 [![Generic badge](https://img.shields.io/badge/discord-join-green.svg)](https://discord.gg/PZuWgew6zh)
 [![Twitter Follow](https://img.shields.io/twitter/follow/StonkBase?label=follow%20%40StonkBase&style=social)](https://twitter.com/StonkBase)
